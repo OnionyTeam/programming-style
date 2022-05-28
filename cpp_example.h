@@ -1,11 +1,16 @@
 #ifndef _PROJECT_FILENAME_H__
 #define _PROJECT_FILENAME_H__
 
+#include <vector>
+#include <algorithm>
+#include <string>
+
 #define _(CONTENT) L##CONTENT
 
 namespace my_space
 {
     const static double PI = 3.14159265358;
+    const static std::wstring NAME = _("C++");
 
     template<typename T>
     class MyClass
