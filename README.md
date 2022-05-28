@@ -2,7 +2,7 @@
 
 *snake_case style YYDS*
 
-In particular, our team adopts its own set of code conventions.
+Our team adopts its own set of code conventions.
 
 ## C++
 namespace: `snake_case` & end with //\<space\>\<namespace name\>
