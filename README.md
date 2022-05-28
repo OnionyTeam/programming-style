@@ -1,6 +1,7 @@
 # programming-style
 
 *snake_case style YYDS*
+
 In particular, our team adopts its own set of code conventions.
 
 ## C++
